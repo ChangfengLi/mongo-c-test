@@ -1,4 +1,6 @@
 # mongo-c-test
+## 官网链接
+http://mongoc.org/libmongoc/current/installing.html
 ## 安装mongo-c-driver
 ```
 #git clone https://github.com/mongodb/mongo-c-driver.git
@@ -11,5 +13,5 @@
 ```
 ## 启动mongodb
 ```
-sudo service mongodb restart
+#sudo service mongodb restart
 ```
