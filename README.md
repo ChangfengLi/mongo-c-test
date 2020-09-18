@@ -9,3 +9,7 @@
 #make
 #sudo make install
 ```
+## 启动mongodb
+```
+sudo service mongodb restart
+```
